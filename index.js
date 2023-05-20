@@ -18,3 +18,11 @@ const port = 9000;
 server.listen(port, () => {
   console.log(`Server is listening on ${port}!`);
 });
+
+/*
+
+4-server import edildi.
+5-port tanımlandı.
+6-server.listen   ile server verilen  portta çalıştırıldı.
+
+*/
